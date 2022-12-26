@@ -1,0 +1,20 @@
+.control-section{
+    background-color: black;
+    color:white;
+}
+.e-control{
+    color: white;
+}
+.e-list-text{
+    color : white !important; 
+}
+.e-fullrow{
+    background-color : black !important;
+}
+.e-treeview .e-list-item div.e-icons::before{
+    color : white
+}
+.e-list-item:hover{
+    background-color: black !important;
+    cursor: pointer !important;
+}
